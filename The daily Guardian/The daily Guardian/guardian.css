@@ -1,0 +1,161 @@
+* {
+    box-sizing: border-box;
+}
+
+header {
+    background-color: #7FFFD4;
+    color: #000000;
+}
+
+body {
+    background-color: #000000;
+    color: #666666;
+    font-family: sans-serif;
+    text-align: center;
+    padding-top: 30px;
+    padding-left: 3em;
+}
+
+h1 a:link {
+    color: #ffffff;
+}
+
+h1 a:visited {
+    color: #ffffff;
+}
+
+h1 a:hover {
+    color: #90C7E3;
+}
+
+nav {
+    padding: 0;
+    text-align: center;
+    font-weight: bold;
+    font-size: 120%;
+}
+
+nav ul {
+    margin: 0;
+    padding-left: 0;
+    font-size: 1.2em;
+}
+
+nav a:visited {
+    color: #344873;
+}
+
+nav a:hover {
+    color: #A52A2A;
+}
+
+h1 {
+    margin-bottom: 0;
+    font-family: serif;
+    margin-top: 0;
+    font-size: 3em;
+    letter-spacing: 0.25em;
+}
+
+h2 {
+    color: #1976d2;
+    font-family: serif;
+    text-shadow: #CCCCCC;
+    offset: 1px;
+}
+
+h3 {
+    color: #1976d2;
+    font-family: serif;
+}
+
+dt {
+    color: #002171;
+}
+
+
+.guardian {
+
+    color: #1976d2;
+    font-weight: bold;
+    box-sizing: border-box;
+}
+
+#contact {
+    color: #666666;
+    font-size: 90%;
+}
+
+footer {
+    font-size: 75%;
+    font-style: italic;
+    text-align: center;
+    font-family: serif;
+    padding: 2em;
+    margin-left: 0px;
+    background-color: #ffffff;
+}
+
+#wrapper {
+    width: 80%;
+    margin-left: auto;
+    margin-right: auto;
+    background-color: #90C7E3;
+    background-image: linear-gradient(#ffffff, #90C7E3);
+    min-width: 960px;
+    max-width: 2048px;
+    box-shadow: 3px 3px #333333;
+    border: 1px #000033;
+}
+
+main {
+    background-color: #ffffff;
+    margin-left: 190px;
+    padding-top: 1px;
+    padding-right: 20px;
+    padding-bottom: 20px;
+    padding-left: 30px;
+    display: block;
+    overflow: auto;
+}
+
+main ul {
+}
+
+
+section {
+    float: left;
+    width: 33%;
+    padding-left: 2em;
+    padding-right: 2em;
+}
+
+table { margin: 0px auto; }
+
+
+td,
+th {
+    padding: 0.5em;
+    border: 2px solid #3399cc;
+}
+
+td {
+    text-align: center;
+}
+
+.text {
+    text-align: left;
+}
+
+thead:nth-of-type(odd),
+tr:nth-of-type(even) {
+    background-color: #f5fafc;
+}
+
+
+
+
+
+
+
+
